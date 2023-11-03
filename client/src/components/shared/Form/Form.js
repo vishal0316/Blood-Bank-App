@@ -49,7 +49,7 @@ const Form = ({ formType, submitBtn, formTitle }) => {
             Donar
           </label>
         </div>
-        <div className="form-check ms-2">
+        {/* <div className="form-check ms-2">
           <input
             type="radio"
             className="form-check-input"
@@ -61,7 +61,7 @@ const Form = ({ formType, submitBtn, formTitle }) => {
           <label htmlFor="adminRadio" className="form-check-label">
             Admin
           </label>
-        </div>
+        </div> */}
         <div className="form-check ms-2">
           <input
             type="radio"
